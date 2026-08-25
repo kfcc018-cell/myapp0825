@@ -5,6 +5,7 @@ st.set_page_config(
     page_title="업무지원 AI 도우미",
     page_icon="🤖",
     layout="centered"
+    
 )
 
 st.title("업무지원 AI 도우미")
